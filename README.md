@@ -1,2 +1,6 @@
-# TrabalhoPOO---T2N1
-Listas de exercício em Java, nível intermediário para a disciplina de POO. Dupla: Gabriel Ferreira e Mário Néo.
+# TrabalhoPOO - T2N1
+> Listas de exercício em Java para a disciplina de Programação Orientada à Objetos. 
+
+- Professor: Roger Moura Sarmento
+- Alunos: Gabriel Ferreira e Mário Néo
+- Programa: Eclipse
